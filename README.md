@@ -26,7 +26,7 @@
 #### Results
 1. Sharpe ratio:  1.47
 2. Annual simple return: 4.52%
-3. Win rate：50.92025%
+3. Win rate：50.92%
 4. Maximum drawdown：25.62%
 5. Maximum loss rate: 6.94%
 6. Trade frequency: 10%
