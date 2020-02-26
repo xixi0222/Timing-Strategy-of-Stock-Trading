@@ -3,7 +3,7 @@
 #### Brief Introduction
 * Stock trading using timing strategy: mainly use short & long moving average of stock price and also analyze the performance of this strategy.
 
-#### Algorithm pipeline
+#### Algorithm Pipeline
 1. Compute **short & long moving average** of stock price. 
 2. Use the infomation of moving average to trade the index. 
 3. Record and compute data of buy & sell, position, return, etc. with daily frequency for later analysis. 
